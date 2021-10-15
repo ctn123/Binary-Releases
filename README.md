@@ -6,6 +6,8 @@ Please check here for latest releases of Misc tools: https://github.com/ctn123/B
 # Tools Included:
 - PS4 Save Mounter
   - **Note:** I'm not the original author of PS4 Save Mounter. I only tried to make it better.
+    - Original Save Mounter can be found here: https://github.com/ChendoChap/Playstation-4-Save-Mounter
+      - By ChendoChap
   - Universal Firmware support (5.05, 6.72, 7.0X, 7.5X)
     - Single ps4debug payload
   - Updated to ps4debug v1.1.13
